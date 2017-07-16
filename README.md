@@ -8,8 +8,12 @@ https://code.visualstudio.com/download
 
 Install from marketplace:
 
-Sublime Babel file associations (Josh Peng)
-One Dark (Sublime Babel) theme (Josh Peng)
+ESLint (Dirk Baeumer)
+JavaScript Snippet Pack (Mahmoud Ali)
+JS-CSS-HTML Formatter (lonefy)
+One Monokai Theme (Joshua Azemoh)
+Sublime Babel (Josh Peng)
+vscode-icons (Roberto Huertas)
 
 Clone this repo somewhere.
 

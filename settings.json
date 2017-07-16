@@ -1,4 +1,23 @@
 {
-    "window.zoomLevel": 2,
-    "editor.wrappingColumn": 0
+    "window.zoomLevel": 0,
+    "editor.wordWrap": "on",
+    "explorer.openEditors.visible": 0,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.tabCompletion": true,
+    "editor.mouseWheelScrollSensitivity": 0.4,
+    "editor.snippetSuggestions": "top",
+    "window.openFilesInNewWindow": "off",
+    "window.openFoldersInNewWindow": "off",
+    "html.format.enable": false,
+    "json.format.enable": false,
+    "javascript.format.enable": false,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.parameterHints": false,
+    "editor.fontSize": 14,
+    "vsicons.dontShowNewVersionMessage": true
 }
