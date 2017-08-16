@@ -10,10 +10,10 @@ Install from marketplace:
 
 ESLint (Dirk Baeumer)
 JavaScript Snippet Pack (Mahmoud Ali)
-JS-CSS-HTML Formatter (lonefy)
 One Monokai Theme (Joshua Azemoh)
 Sublime Babel (Josh Peng)
 vscode-icons (Roberto Huertas)
+Prettier - JavaScript formatter (Esben Petersen)
 
 Clone this repo somewhere.
 
