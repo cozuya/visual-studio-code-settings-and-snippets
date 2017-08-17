@@ -18,6 +18,8 @@
   "workbench.colorTheme": "Monokai Dimmed",
   "workbench.iconTheme": "vscode-icons",
   "prettier.singleQuote": true,
+  "prettier.useTabs": true,
+  "editor.formatOnSave": true,
   "editor.parameterHints": false,
   "editor.fontSize": 14,
   "vsicons.dontShowNewVersionMessage": true
