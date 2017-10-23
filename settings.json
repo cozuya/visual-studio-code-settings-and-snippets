@@ -19,8 +19,11 @@
   "workbench.iconTheme": "vscode-icons",
   "prettier.singleQuote": true,
   "prettier.useTabs": true,
+  "prettier.printWidth": 160,
   "editor.formatOnSave": true,
   "editor.parameterHints": false,
   "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'Hasklig', Consolas, 'Courier New', monospace",
   "vsicons.dontShowNewVersionMessage": true
 }
