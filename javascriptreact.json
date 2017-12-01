@@ -1,5 +1,5 @@
 {
-    /*
+	/*
        // Place your snippets for JavaScript React (Babel) here. Each snippet is defined under a snippet name and has a prefix, body and 
        // description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
        // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
@@ -14,36 +14,28 @@
         "description": "Log output to console"
       }
     */
-    "Print to console": {
-        "prefix": "con",
-        "body": [
-            "console.log(${1:'Hello, World!'})"
-        ],
-        "description": "Log to console"
-    },
-    "If statement": {
-        "prefix": "if",
-        "body": [
-            "if (${1:condition}) {",
-            "\t$2",
-            "}"
-        ],
-        "description": "If statement"
-    },
-    "Immediately invoked function": {
-        "prefix": "iife",
-        "body": [
-            "(() => {",
-            "\t$1",
-            "})()"
-        ],
-        "description": "IIFE"
-    },
-    "Print to console (json parse": {
-        "prefix": "conj",
-        "body": [
-            "console.log(JSON.parse(JSON.stringify(${1:'Hello, World!'}))$2)"
-        ],
-        "description": "Log to console with JSON parse"
-    }
+	"Print to console": {
+		"prefix": "con",
+		"body": ["console.log(${1:'Hello, World!'})"],
+		"description": "Log to console"
+	},
+	"If statement": {
+		"prefix": "if",
+		"body": ["if (${1:condition}) {", "\t$2", "}"],
+		"description": "If statement"
+	},
+	"Immediately invoked function": {
+		"prefix": "iife",
+		"body": ["(() => {", "\t$1", "})()"],
+		"description": "IIFE"
+	},
+	"Print to console (json parse": {
+		"prefix": "conj",
+		"body": ["console.log(JSON.parse(JSON.stringify(${1:'Hello, World!'}))$2)"],
+		"description": "Log to console with JSON parse"
+	},
+	"const": {
+		"prefix": "c",
+		"body": ["const "]
+	}
 }
