@@ -1,10 +1,14 @@
-visual-studio-code-settings-and-snippets
-======================
+# visual-studio-code-settings-and-snippets
 
-## Installation ##
+## Installation
+
 Install Visual Studio Code:
 
 https://code.visualstudio.com/download
+
+Install Hasklig font:
+
+https://github.com/i-tu/Hasklig
 
 Install from marketplace:
 
@@ -14,6 +18,8 @@ One Monokai Theme (Joshua Azemoh)
 Sublime Babel (Josh Peng)
 vscode-icons (Roberto Huertas)
 Prettier - JavaScript formatter (Esben Petersen)
+Bracket Pair Colorizer (CoenraadS)
+Git Lens (Eric Amodio)
 
 Clone this repo somewhere.
 
