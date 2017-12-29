@@ -19,6 +19,7 @@ Sublime Babel (Josh Peng)
 vscode-icons (Roberto Huertas)
 Prettier - JavaScript formatter (Esben Petersen)
 Bracket Pair Colorizer (CoenraadS)
+Auto Close Tag (Jun Han)
 Git Lens (Eric Amodio)
 
 Clone this repo somewhere.
