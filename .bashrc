@@ -24,3 +24,6 @@ export PATH="$HOME/.yarn/bin:$PATH"
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+
+# https://gist.github.com/chrisnolet/d3582cd63eb3d7b4fcb4d5975fd91d04 for zsh git color codes
